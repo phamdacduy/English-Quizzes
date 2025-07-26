@@ -1,0 +1,246 @@
+{
+  "title": "Adjective Mastery Challenge",
+  "purpose": "To test and enhance learners' understanding of adjectives in English grammar.",
+  "questions": [
+    {
+      "question": "Which of the following words is an adjective?",
+      "choices": ["quickly", "beautifully", "run", "happy"],
+      "correctAnswer": 4,
+      "explanation": "'Happy' describes a noun or pronoun. 'Quickly' and 'beautifully' are adverbs, and 'run' is a verb."
+    },
+    {
+      "question": "Identify the adjective in the sentence: 'The old house stood on the hill.'",
+      "choices": ["house", "stood", "old", "hill"],
+      "correctAnswer": 3,
+      "explanation": "'Old' describes the noun 'house'."
+    },
+    {
+      "question": "Which sentence uses an adjective correctly?",
+      "choices": [
+        "He sings good.",
+        "She is very quick.",
+        "They played happily.",
+        "The flower smells sweetly."
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Quick' describes 'she'. 'Good' should be 'well' when describing a verb, 'happily' is an adverb, and 'sweetly' should be 'sweet' when describing the smell (a linking verb)."
+    },
+    {
+      "question": "Choose the correct comparative form of the adjective 'tall'.",
+      "choices": ["tallest", "more tall", "taller", "most tall"],
+      "correctAnswer": 3,
+      "explanation": "The comparative form of 'tall' is 'taller'."
+    },
+    {
+      "question": "What is the superlative form of the adjective 'good'?",
+      "choices": ["gooder", "best", "most good", "better"],
+      "correctAnswer": 2,
+      "explanation": "The superlative form of 'good' is 'best'."
+    },
+    {
+      "question": "In the sentence 'She wore a beautiful red dress,' which word is the adjective describing 'dress'?",
+      "choices": ["wore", "red", "beautiful", "she"],
+      "correctAnswer": 3,
+      "explanation": "'Beautiful' describes the noun 'dress'. 'Red' is also an adjective, but 'beautiful' is the primary descriptor here."
+    },
+    {
+      "question": "Which of these is an example of a possessive adjective?",
+      "choices": ["mine", "their", "hers", "yours"],
+      "correctAnswer": 2,
+      "explanation": "'Their' modifies a noun to show possession (e.g., 'their car'). 'Mine,' 'hers,' and 'yours' are possessive pronouns."
+    },
+    {
+      "question": "Which sentence uses an adjective to describe a quantity?",
+      "choices": [
+        "She has many books.",
+        "He walked slowly.",
+        "The food tasted delicious.",
+        "They are very kind."
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Many' indicates a quantity of books."
+    },
+    {
+      "question": "Identify the adjective in the sentence: 'The angry dog barked loudly.'",
+      "choices": ["dog", "barked", "loudly", "angry"],
+      "correctAnswer": 4,
+      "explanation": "'Angry' describes the noun 'dog'."
+    },
+    {
+      "question": "Which option contains only adjectives?",
+      "choices": [
+        "run, jump, sing",
+        "quickly, slowly, softly",
+        "happy, sad, brave",
+        "book, table, chair"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Happy,' 'sad,' and 'brave' are all words that describe nouns."
+    },
+    {
+      "question": "Choose the correct order of adjectives: 'a big old brown wooden table'",
+      "choices": [
+        "a wooden big old brown table",
+        "a brown old big wooden table",
+        "a big old brown wooden table",
+        "a big brown old wooden table"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The typical order is: opinion, size, age, shape, color, origin, material, purpose."
+    },
+    {
+      "question": "Which sentence uses a demonstrative adjective correctly?",
+      "choices": [
+        "I like those.",
+        "This is my car.",
+        "These apples are fresh.",
+        "That one is good."
+      ],
+      "correctAnswer": 3,
+      "explanation": "'These' modifies 'apples' to specify which ones."
+    },
+    {
+      "question": "What kind of adjective is 'first' in 'the first person'?",
+      "choices": [
+        "descriptive",
+        "possessive",
+        "numeral (ordinal)",
+        "demonstrative"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'First' indicates the order or position."
+    },
+    {
+      "question": "Fill in the blank with the appropriate adjective: 'She feels _______ today.'",
+      "choices": ["happily", "good", "well", "badly"],
+      "correctAnswer": 2,
+      "explanation": "When describing a state of being, 'good' is used as an adjective with linking verbs like 'feels'. 'Well' is usually an adverb or describes health."
+    },
+    {
+      "question": "Which of the following is an adjective formed from a verb?",
+      "choices": [
+        "singing (as in 'singing bird')",
+        "quickly",
+        "loudly",
+        "beautiful"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Singing' is a present participle used as an adjective to describe the bird."
+    },
+    {
+      "question": "Identify the comparative adjective in the sentence: 'My car is faster than yours.'",
+      "choices": ["car", "faster", "yours", "than"],
+      "correctAnswer": 2,
+      "explanation": "'Faster' compares the speed of two cars."
+    },
+    {
+      "question": "Which sentence correctly uses the adjective 'little' to describe size?",
+      "choices": [
+        "I have little money.",
+        "She is a little girl.",
+        "He knows little about it.",
+        "They ate a little."
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Little' describes the size of the girl. In other options, it implies a small amount or quantity."
+    },
+    {
+      "question": "Choose the most appropriate adjective to complete the sentence: 'The movie was so _______ that I fell asleep.'",
+      "choices": ["exciting", "thrilling", "boring", "interesting"],
+      "correctAnswer": 3,
+      "explanation": "If the movie made you fall asleep, it was likely boring."
+    },
+    {
+      "question": "Which of these words is an adjective that describes a material?",
+      "choices": ["wooden", "quickly", "softly", "listen"],
+      "correctAnswer": 1,
+      "explanation": "'Wooden' describes something made of wood."
+    },
+    {
+      "question": "In the sentence 'He is a very intelligent student,' what word does 'intelligent' describe?",
+      "choices": ["he", "is", "very", "student"],
+      "correctAnswer": 4,
+      "explanation": "'Intelligent' describes the noun 'student'."
+    },
+    {
+      "question": "Select the sentence where 'hard' is used as an adjective.",
+      "choices": [
+        "He works hard.",
+        "The test was hard.",
+        "She hit him hard.",
+        "They tried hard."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Here, 'hard' describes the noun 'test'. In other sentences, it's an adverb modifying the verb."
+    },
+    {
+      "question": "What is the correct superlative form of 'bad'?",
+      "choices": ["badder", "worst", "more bad", "worse"],
+      "correctAnswer": 2,
+      "explanation": "The superlative form of 'bad' is 'worst'."
+    },
+    {
+      "question": "Which adjective describes a feeling?",
+      "choices": ["stone", "tall", "sad", "often"],
+      "correctAnswer": 3,
+      "explanation": "'Sad' describes an emotional state."
+    },
+    {
+      "question": "Identify the sentence with an adjective describing a color.",
+      "choices": [
+        "The car runs fast.",
+        "She wore a blue hat.",
+        "He speaks loudly.",
+        "They live far away."
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Blue' describes the color of the hat."
+    },
+    {
+      "question": "Which is an example of an indefinite adjective?",
+      "choices": ["this", "many", "their", "which"],
+      "correctAnswer": 2,
+      "explanation": "'Many' refers to an unspecified number or quantity."
+    },
+    {
+      "question": "In the phrase 'a sleeping baby,' 'sleeping' acts as a(n):",
+      "choices": ["noun", "verb", "adverb", "adjective"],
+      "correctAnswer": 4,
+      "explanation": "'Sleeping' describes the noun 'baby'."
+    },
+    {
+      "question": "Choose the adjective that expresses an opinion.",
+      "choices": ["round", "old", "beautiful", "French"],
+      "correctAnswer": 3,
+      "explanation": "'Beautiful' is subjective and expresses an opinion."
+    },
+    {
+      "question": "Which sentence contains a predicate adjective?",
+      "choices": [
+        "The green grass grew.",
+        "She is happy.",
+        "He quickly ran home.",
+        "They sang loudly."
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Happy' follows a linking verb ('is') and describes the subject 'she'."
+    },
+    {
+      "question": "Fill in the blank with the correct form of the adjective: 'This is the _______ book I have ever read.' (interesting)",
+      "choices": [
+        "more interesting",
+        "most interesting",
+        "interesting",
+        "interestinger"
+      ],
+      "correctAnswer": 2,
+      "explanation": "For adjectives with three or more syllables, 'most' is used for the superlative form."
+    },
+    {
+      "question": "Which of the following is a compound adjective?",
+      "choices": ["quickly", "well-known", "beautifully", "excitement"],
+      "correctAnswer": 2,
+      "explanation": "'Well-known' consists of two words that act together to modify a noun, often hyphenated."
+    }
+  ]
+}
