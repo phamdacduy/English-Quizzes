@@ -1,0 +1,391 @@
+{
+  "title": "Mastering Comparatives and Superlatives",
+  "purpose": "To help learners understand and correctly use comparative and superlative adjectives in English, including special cases.",
+  "questions": [
+    {
+      "question": "Choose the correct comparative form: My car is ______ than yours. (fast)",
+      "choices": ["fast", "faster", "fastest", "more fast"],
+      "correctAnswer": 2,
+      "explanation": "For most one-syllable adjectives, add '-er' to form the comparative."
+    },
+    {
+      "question": "Choose the correct superlative form: Everest is the ______ mountain in the world. (high)",
+      "choices": ["higher", "highest", "most high", "more high"],
+      "correctAnswer": 2,
+      "explanation": "For most one-syllable adjectives, add '-est' to form the superlative."
+    },
+    {
+      "question": "Complete the sentence: This book is ______ than that one. (interesting)",
+      "choices": [
+        "interestinger",
+        "more interesting",
+        "most interesting",
+        "interestinger"
+      ],
+      "correctAnswer": 2,
+      "explanation": "For adjectives with two or more syllables, use 'more' for the comparative."
+    },
+    {
+      "question": "Complete the sentence: She is the ______ student in the class. (intelligent)",
+      "choices": [
+        "intelligenter",
+        "most intelligent",
+        "more intelligent",
+        "intelligenter"
+      ],
+      "correctAnswer": 2,
+      "explanation": "For adjectives with two or more syllables, use 'most' for the superlative."
+    },
+    {
+      "question": "Which sentence uses the correct comparative form? (good)",
+      "choices": [
+        "He is gooder than me.",
+        "He is better than me.",
+        "He is more good than me.",
+        "He is gooder."
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Good' has an irregular comparative form: 'better'."
+    },
+    {
+      "question": "Which sentence uses the correct superlative form? (bad)",
+      "choices": [
+        "That was the badest day.",
+        "That was the most bad day.",
+        "That was the worst day.",
+        "That was the badder day."
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Bad' has an irregular superlative form: 'worst'."
+    },
+    {
+      "question": "Choose the correct form: My new phone is ______ than my old one. (expensive)",
+      "choices": [
+        "expensiver",
+        "more expensive",
+        "most expensive",
+        "expensivest"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Expensive' is a multi-syllable adjective, so use 'more'."
+    },
+    {
+      "question": "Complete the sentence: This is the ______ movie I've ever seen. (boring)",
+      "choices": ["boringer", "more boring", "most boring", "boringest"],
+      "correctAnswer": 3,
+      "explanation": "'Boring' is a multi-syllable adjective, so use 'most'."
+    },
+    {
+      "question": "Which adjective forms its comparative and superlative irregularly? (far)",
+      "choices": ["far", "farer", "farthest", "more far"],
+      "correctAnswer": 3,
+      "explanation": "'Far' has irregular forms: 'farther/further' (comparative) and 'farthest/furthest' (superlative)."
+    },
+    {
+      "question": "Complete the sentence: She is ______ than her sister. (pretty)",
+      "choices": ["prettier", "more pretty", "prettiest", "prettyer"],
+      "correctAnswer": 1,
+      "explanation": "For adjectives ending in '-y', change 'y' to 'i' and add '-er'."
+    },
+    {
+      "question": "Choose the correct superlative form: He is the ______ player on the team. (strong)",
+      "choices": ["stronger", "strongest", "most strong", "more strong"],
+      "correctAnswer": 2,
+      "explanation": "'Strong' is a one-syllable adjective, so add '-est'."
+    },
+    {
+      "question": "Which of these is a special case for comparatives? (simple)",
+      "choices": ["simpler", "more simple", "simplest", "simpleer"],
+      "correctAnswer": 1,
+      "explanation": "Adjectives ending in '-le' often just add '-r' (simpler) or '-st' (simplest) if they are two syllables."
+    },
+    {
+      "question": "Identify the correct comparative form: This puzzle is ______ than the last one. (difficult)",
+      "choices": [
+        "difficulter",
+        "more difficult",
+        "most difficult",
+        "difficultest"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Difficult' is a multi-syllable adjective, so use 'more'."
+    },
+    {
+      "question": "Which of these is the superlative form of 'little' (meaning amount)?",
+      "choices": ["littler", "least", "less", "littlest"],
+      "correctAnswer": 2,
+      "explanation": "'Little' (meaning amount) has irregular forms: 'less' (comparative) and 'least' (superlative)."
+    },
+    {
+      "question": "Complete the sentence: That was the ______ decision I've ever made. (wise)",
+      "choices": ["wiser", "wisest", "more wise", "wisest"],
+      "correctAnswer": 2,
+      "explanation": "For adjectives ending in '-e', just add '-st'."
+    },
+    {
+      "question": "Choose the correct comparative form: My new job is ______ than my old one. (stressful)",
+      "choices": [
+        "stressfuller",
+        "more stressful",
+        "most stressful",
+        "stressfullest"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Stressful' is a multi-syllable adjective, so use 'more'."
+    },
+    {
+      "question": "Which sentence is grammatically correct? (heavy)",
+      "choices": [
+        "This box is heavyer than that one.",
+        "This box is more heavy than that one.",
+        "This box is heavier than that one.",
+        "This box is heaviest than that one."
+      ],
+      "correctAnswer": 3,
+      "explanation": "For adjectives ending in '-y', change 'y' to 'i' and add '-er'."
+    },
+    {
+      "question": "Complete the sentence: He is the ______ runner in the race. (fast)",
+      "choices": ["faster", "fastest", "most fast", "more fast"],
+      "correctAnswer": 2,
+      "explanation": "'Fast' is a one-syllable adjective, so add '-est'."
+    },
+    {
+      "question": "Which adjective can be both regular and irregular in its comparative form? (clever)",
+      "choices": ["clever", "cleverer", "more clever", "cleverest"],
+      "correctAnswer": 2,
+      "explanation": "'Clever' can be 'cleverer' or 'more clever' (and 'cleverest' or 'most clever')."
+    },
+    {
+      "question": "Choose the correct superlative form: This is the ______ cake I've ever tasted. (delicious)",
+      "choices": [
+        "deliciouser",
+        "more delicious",
+        "most delicious",
+        "deliciousest"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Delicious' is a multi-syllable adjective, so use 'most'."
+    },
+    {
+      "question": "Complete the sentence: Her hair is ______ than mine. (long)",
+      "choices": ["longer", "more long", "longest", "longger"],
+      "correctAnswer": 1,
+      "explanation": "'Long' is a one-syllable adjective, so add '-er'."
+    },
+    {
+      "question": "Which of these is the comparative form of 'much/many'?",
+      "choices": ["mucher", "most", "more", "manyer"],
+      "correctAnswer": 3,
+      "explanation": "'Much' and 'many' have irregular forms: 'more' (comparative) and 'most' (superlative)."
+    },
+    {
+      "question": "Identify the correct superlative form: He is the ______ person I know. (kind)",
+      "choices": ["kinder", "kindest", "most kind", "more kind"],
+      "correctAnswer": 2,
+      "explanation": "'Kind' is a one-syllable adjective, so add '-est'."
+    },
+    {
+      "question": "Complete the sentence: This exercise is ______ than the previous one. (easy)",
+      "choices": ["easier", "more easy", "easiest", "easyer"],
+      "correctAnswer": 1,
+      "explanation": "For adjectives ending in '-y', change 'y' to 'i' and add '-er'."
+    },
+    {
+      "question": "Which sentence uses the correct superlative form? (good)",
+      "choices": [
+        "She is the goodest singer.",
+        "She is the best singer.",
+        "She is the most good singer.",
+        "She is the gooder singer."
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Good' has an irregular superlative form: 'best'."
+    },
+    {
+      "question": "Choose the correct comparative form: The new building is ______ than the old one. (modern)",
+      "choices": ["moderner", "more modern", "most modern", "modernest"],
+      "correctAnswer": 2,
+      "explanation": "'Modern' is a multi-syllable adjective, so use 'more'."
+    },
+    {
+      "question": "Complete the sentence: This is the ______ story I've ever heard. (sad)",
+      "choices": ["sader", "saddest", "more sad", "sadest"],
+      "correctAnswer": 2,
+      "explanation": "For one-syllable adjectives ending in consonant-vowel-consonant, double the last consonant and add '-est'."
+    },
+    {
+      "question": "Which of these is an example of an adjective that uses 'more' for its comparative form? (careful)",
+      "choices": ["carefuller", "more careful", "carefullest", "carefulest"],
+      "correctAnswer": 2,
+      "explanation": "'Careful' is a multi-syllable adjective, so use 'more'."
+    },
+    {
+      "question": "Identify the correct comparative form: He looks ______ today than yesterday. (happy)",
+      "choices": ["happier", "more happy", "happiest", "happyer"],
+      "correctAnswer": 1,
+      "explanation": "For adjectives ending in '-y', change 'y' to 'i' and add '-er'."
+    },
+    {
+      "question": "Complete the sentence: This is the ______ dress in the store. (beautiful)",
+      "choices": [
+        "beautifuler",
+        "more beautiful",
+        "most beautiful",
+        "beautifulest"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Beautiful' is a multi-syllable adjective, so use 'most'."
+    },
+    {
+      "question": "Which adjective has two possible comparative forms? (common)",
+      "choices": ["commoner", "more common", "commonest", "most common"],
+      "correctAnswer": 2,
+      "explanation": "Some two-syllable adjectives (e.g., common, handsome, polite, quiet, simple) can use either '-er/-est' or 'more/most'."
+    },
+    {
+      "question": "Choose the correct superlative form: She is the ______ member of the family. (old)",
+      "choices": ["older", "oldest", "elder", "eldest"],
+      "correctAnswer": 4,
+      "explanation": "'Old' can have 'older/oldest' (general) or 'elder/eldest' (for family members, particularly siblings)."
+    },
+    {
+      "question": "Complete the sentence: The traffic was ______ than usual. (bad)",
+      "choices": ["badder", "worse", "worst", "more bad"],
+      "correctAnswer": 2,
+      "explanation": "'Bad' has an irregular comparative form: 'worse'."
+    },
+    {
+      "question": "Which of these uses the superlative form correctly? (thin)",
+      "choices": [
+        "He is the thinnest person.",
+        "He is the more thin person.",
+        "He is the most thin person.",
+        "He is the thinner person."
+      ],
+      "correctAnswer": 1,
+      "explanation": "For one-syllable adjectives ending in consonant-vowel-consonant, double the last consonant and add '-est'."
+    },
+    {
+      "question": "Identify the correct comparative form: This chair is ______ than that one. (comfortable)",
+      "choices": [
+        "comfortabler",
+        "more comfortable",
+        "most comfortable",
+        "comfortablest"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Comfortable' is a multi-syllable adjective, so use 'more'."
+    },
+    {
+      "question": "Complete the sentence: That was the ______ experience of my life. (exciting)",
+      "choices": [
+        "excitinger",
+        "more exciting",
+        "most exciting",
+        "excitingest"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Exciting' is a multi-syllable adjective, so use 'most'."
+    },
+    {
+      "question": "Which adjective can take both -er/-est and more/most? (polite)",
+      "choices": ["politer", "more polite", "politest", "most polite"],
+      "correctAnswer": 2,
+      "explanation": "Some two-syllable adjectives (e.g., polite) can use either form."
+    },
+    {
+      "question": "Choose the correct superlative form: It's the ______ idea he's ever had. (brilliant)",
+      "choices": [
+        "brillianter",
+        "more brilliant",
+        "most brilliant",
+        "brilliantest"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Brilliant' is a multi-syllable adjective, so use 'most'."
+    },
+    {
+      "question": "Complete the sentence: My brother is ______ than me. (tall)",
+      "choices": ["taller", "more tall", "tallest", "talller"],
+      "correctAnswer": 1,
+      "explanation": "'Tall' is a one-syllable adjective, so add '-er'."
+    },
+    {
+      "question": "Which of these is the comparative form of 'ill' (meaning sick)?",
+      "choices": ["iller", "worse", "worst", "more ill"],
+      "correctAnswer": 2,
+      "explanation": "'Ill' has an irregular comparative form: 'worse' (similar to 'bad')."
+    },
+    {
+      "question": "Identify the correct comparative form: The weather is ______ today than yesterday. (cold)",
+      "choices": ["colder", "more cold", "coldest", "colder"],
+      "correctAnswer": 1,
+      "explanation": "'Cold' is a one-syllable adjective, so add '-er'."
+    },
+    {
+      "question": "Complete the sentence: This is the ______ book on my shelf. (old)",
+      "choices": ["older", "oldest", "more old", "oldest"],
+      "correctAnswer": 2,
+      "explanation": "'Old' is a one-syllable adjective, so add '-est'."
+    },
+    {
+      "question": "Which of these is the superlative form of 'far' (meaning distance)?",
+      "choices": ["farer", "further", "furthest", "farthest"],
+      "correctAnswer": 4,
+      "explanation": "'Far' has irregular forms: 'farther/further' (comparative) and 'farthest/furthest' (superlative)."
+    },
+    {
+      "question": "Choose the correct comparative form: Her voice is ______ than mine. (loud)",
+      "choices": ["louder", "more loud", "loudest", "louderer"],
+      "correctAnswer": 1,
+      "explanation": "'Loud' is a one-syllable adjective, so add '-er'."
+    },
+    {
+      "question": "Complete the sentence: That was the ______ performance of the night. (amazing)",
+      "choices": ["amazinger", "more amazing", "most amazing", "amazingest"],
+      "correctAnswer": 3,
+      "explanation": "'Amazing' is a multi-syllable adjective, so use 'most'."
+    },
+    {
+      "question": "Which adjective needs to double its final consonant in the comparative and superlative forms? (big)",
+      "choices": ["big", "bigger", "biggest", "more big"],
+      "correctAnswer": 2,
+      "explanation": "One-syllable adjectives ending in consonant-vowel-consonant (e.g., big, hot, thin) double the final consonant."
+    },
+    {
+      "question": "Identify the correct superlative form: He is the ______ doctor in the hospital. (experienced)",
+      "choices": [
+        "experienceder",
+        "more experienced",
+        "most experienced",
+        "experiencedest"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Experienced' is a multi-syllable adjective, so use 'most'."
+    },
+    {
+      "question": "Complete the sentence: This new restaurant is ______ than the old one. (popular)",
+      "choices": ["popularer", "more popular", "most popular", "popularest"],
+      "correctAnswer": 2,
+      "explanation": "'Popular' is a multi-syllable adjective, so use 'more'."
+    },
+    {
+      "question": "Which of these is a special case where 'less' is used for the comparative? (little - meaning size)",
+      "choices": ["littler", "least", "smaller", "more little"],
+      "correctAnswer": 1,
+      "explanation": "'Little' (meaning size) typically uses 'littler/littlest' or 'smaller/smallest'. 'Less' is for amount."
+    },
+    {
+      "question": "Choose the correct comparative form: My new computer is ______ than my old one. (powerful)",
+      "choices": [
+        "powerfuller",
+        "more powerful",
+        "most powerful",
+        "powerfullest"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Powerful' is a multi-syllable adjective, so use 'more'."
+    }
+  ]
+}
